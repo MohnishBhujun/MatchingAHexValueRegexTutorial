@@ -130,8 +130,8 @@ This tutorial was written by Mohnish Bhujun.
 
 I appreciate any questions you may have. Feel free to reach out on my github for further information.
 
-GitHub Repository: https://github.com/MohnishBhujun/MatchingAHexValueRegexTutorial
+GitHub Gist Link : [https://github.com/MohnishBhujun](https://gist.github.com/MohnishBhujun/e14e7d45308c87fb01d781cceeaf5319)
 
-GitHub Repository Link : https://github.com/MohnishBhujun
+GitHub Repository: https://github.com/MohnishBhujun/MatchingAHexValueRegexTutorial
 
 Copyright © 2024 Mohnish Bhujun
